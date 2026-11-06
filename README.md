@@ -31,7 +31,7 @@ The following resources complement the book and provide additional opportunities
 
 | Resource | Description | PDF |
 |---|---|---|
-| Resource 01 | Coming soon |  |
+| 001 — AI Output Verification Worksheet | Organizational AI Readiness Worksheet. |[Download PDF](resources/001PAIGG_OrganizationalAIReadinessWorksheetV6210.pdf) |
 | Resource 02 | Coming soon |  |
 | Resource 03 | Coming soon |  |
 | Resource 04 | Coming soon |  |
